@@ -1,0 +1,1 @@
+2022/04/26 14:11:59 [error] 32#32: *1 rewrite or internal redirection cycle while internally redirecting to "/index.html", client: 172.24.0.1, server: , request: "GET / HTTP/1.1", host: "localhost:8000"
